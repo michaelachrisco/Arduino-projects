@@ -5,7 +5,7 @@
 
 ## Requirements
 1. Arduino (Leonardo was used but any model will do)
-2. 54161 4bit counter chip
+2. 54161 4bit counter chip: https://www.questcomp.com/part/4/snc54161j/382938944
 3. Wires
 
 ## Code
